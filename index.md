@@ -24,7 +24,8 @@ list_title: "News & updates"
 @media (max-width: 700px) {
   .profile-intro {
     flex-direction: column;
-    align-items: flex-start;
+    /* align-items: flex-start; */
+    align-items: center;
   }
   .profile-intro img {
     margin-bottom: 1rem;
