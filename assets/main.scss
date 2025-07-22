@@ -1,0 +1,40 @@
+---
+---
+
+$brand-color: #037590;
+$site-title-color: #BC004F;
+
+@import "minima";
+
+
+.post-list h3 a {
+    font-size: 1em;
+}
+
+h1, h2 {
+    color: $site-title-color;
+}
+
+/*.site-title, .site-title:visited, .page-link, .page-link:visited {
+    color: $site-title-color;
+}*/
+
+.site-header {
+    border-top: 5px solid $site-title-color;
+}
+
+ul.no-item {
+    list-style: none;
+}
+
+ul.no-item li {
+    margin-bottom: 0.5em;
+}
+
+a:visited {
+    color: $brand-color;
+}
+
+h1.p-name {
+    color: $brand-color;
+}
