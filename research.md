@@ -22,7 +22,7 @@ For my empirical analyses, I use a wide range of descriptive, quasi-experimental
 
 ### Work in progress
 
-- *Rising Energy Prices Without Falling Consumption? The Role of Energy Price Dispersion in a Multi-Product World.* Joint work with Kathrine von Graevenitz and Elisa Rottner.
+- *Rising Energy Prices Without Falling Consumption? The Role of Energy Price Dispersion in a Multi-Product World.* Joint work with [Kathrine von Graevenitz](https://sites.google.com/view/kathrinevongraevenitz/home) and [Elisa Rottner](https://sites.google.com/view/elisa-rottner/home).
 - *Firm-level investment into energy-saving capital.* (Early stage.)
 {: .no-item}
 
