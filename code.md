@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code
+title: Code & data
 permalink: /code/
 ---
 
@@ -11,3 +11,7 @@ I am a great advocate of open source software and try to make the source code I 
 ## R packages
 
 - **[chunkwise](https://github.com/joschakrug/chunkwise):** An R package that contains an optimised C++ routine to read and process large text files in chunks. (This comes in useful when you have to deal with a huge `.csv` file of several GB on your mid-tier work notebook, for example.)
+
+## Data sets
+
+- **[plz-ags-matching](https://github.com/joschakrug/plz-ags-matching):** A data set that contains a shape file of the boundaries of all PLZ-AGS (postal code--municipality) combinations in Germany and a correspondence between PLZ and AGS identifiers, based on openly available data.
