@@ -17,7 +17,7 @@ For my empirical analyses, I use a wide range of descriptive, quasi-experimental
 
 ### Discussion papers
 
-- *Mobilizing Credit for Clean Energy: De-Risking and Public Loan Provision under Learning Spillovers.* ([Discussion paper](https://www.ifo.de/en/cesifo/publications/2024/working-paper/mobilizing-credit-clean-energy-de-risking-and-public-loan-provision)) Joint work with Paul Waidelich and Bjarne Steffen. R&R at the Journal of Environmental Economics & Management.
+- *Mobilizing Credit for Clean Energy: De-Risking and Public Loan Provision under Learning Spillovers.* ([Discussion paper](https://www.ifo.de/en/cesifo/publications/2024/working-paper/mobilizing-credit-clean-energy-de-risking-and-public-loan-provision)) Joint work with Paul Waidelich and Bjarne Steffen. Accepted at the Journal of Environmental Economics & Management.
 {: .no-item}
 
 ### Work in progress
