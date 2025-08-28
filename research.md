@@ -15,15 +15,15 @@ For my empirical analyses, I use a wide range of descriptive, quasi-experimental
 
 ## Publications
 
-### Discussion papers
-
-- *Mobilizing Credit for Clean Energy: De-Risking and Public Loan Provision under Learning Spillovers.* ([Discussion paper](https://www.ifo.de/en/cesifo/publications/2024/working-paper/mobilizing-credit-clean-energy-de-risking-and-public-loan-provision)) Joint work with Paul Waidelich and Bjarne Steffen. Accepted at the Journal of Environmental Economics & Management.
-{: .no-item}
-
 ### Work in progress
 
 - *Rising Energy Prices Without Falling Consumption? The Role of Energy Price Dispersion in a Multi-Product World.* Joint work with [Kathrine von Graevenitz](https://sites.google.com/view/kathrinevongraevenitz/home) and [Elisa Rottner](https://sites.google.com/view/elisa-rottner/home).
 - *Firm-level investment into energy-saving capital.* (Early stage.)
+{: .no-item}
+
+### Articles in refereed journals
+
+- *Mobilizing credit for clean energy: De-risking and public loan provision under learning spillovers.* 2025. (Joint work with Paul Waidelich and Bjarne Steffen.) Journal of Environmental Economics & Management. [DOI: 10.1016/j.jeem.2025.103222](https://doi.org/10.1016/j.jeem.2025.103222)
 {: .no-item}
 
 ## Conference talks
