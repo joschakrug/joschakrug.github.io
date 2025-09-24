@@ -2,7 +2,7 @@
 layout: post
 title:  "New working paper: Mobilising credit for clean energy"
 date:   2024-05-06 08:47:38 +0200
-categories: update working-paper publication energy-economics finance
+tags: update working-paper publication energy-economics finance
 ---
 
 My work on [Mobilizing Credit for Clean Energy: De-Risking and Public Loan Provision](https://www.ifo.de/en/cesifo/publications/2024/working-paper/mobilizing-credit-clean-energy-de-risking-and-public-loan-provision) together with Paul Waidelich and Bjarne Steffen is now available as a CESifo Working Paper.

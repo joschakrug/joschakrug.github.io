@@ -2,7 +2,7 @@
 layout: post
 title:  "'Mobilizing credit for clean energy': Study published in JEEM"
 date:   2025-08-28 12:55:37 +0200
-categories: energy-economics publication state-investment-banks green-finance
+tags: energy-economics publication state-investment-banks green-finance
 ---
 
 <!-- markdownlint-disable MD041 -->
