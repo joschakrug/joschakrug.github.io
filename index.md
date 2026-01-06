@@ -42,5 +42,8 @@ list_title: "News & updates"
     <p>
     Currently, I am a PhD candidate at the University of Mannheim, Germany, and a Researcher at the Unit on Environmental and Climate Economics at ZEW &ndash; Leibniz Centre for European Economic Research. My supervsiors are <a href="https://ulrichwagner.eu/">Ulrich Wagner</a> and <a href="https://sites.google.com/view/kathrinevongraevenitz/home">Kathrine von Graevenitz</a>.
     </p>
+    <p>
+    For the first quarter of 2026, I am visiting <a href="https://www.krhwagner.com/">Katherine Wagner</a> at the University of British Columbia, Vancouver.
+    </p>
   </div>
 </div>
