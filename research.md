@@ -15,7 +15,7 @@ For my empirical analyses, I use a wide range of descriptive, quasi-experimental
 
 ### Working papers
 
-- *Rising Energy Prices Without Falling Consumption? The Role of Energy Price Dispersion in a Multi-Product World.* 2025. (Joint work with [Kathrine von Graevenitz](https://sites.google.com/view/kathrinevongraevenitz/home) and [Elisa Rottner](https://sites.google.com/view/elisa-rottner/home).) [ZEW Discussion Paper No. 25-047](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5523679)
+- *Rising Energy Prices Without Falling Consumption? The Role of Energy Price Dispersion in a Multi-Product World.* 2025. (Joint work with [Kathrine von Graevenitz](https://sites.google.com/view/kathrinevongraevenitz/home) and [Elisa Rottner](https://sites.google.com/view/elisa-rottner/home).) [ZEW Discussion Paper No. 25-047](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5523679) \| [Video summary](https://lt.org/publication/why-german-manufacturing-isnt-getting-more-energy-efficient)
 {: .no-item}
 
 ### Articles in refereed journals
