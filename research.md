@@ -23,6 +23,10 @@ For my empirical analyses, I use a wide range of descriptive, quasi-experimental
 - *Mobilizing credit for clean energy: De-risking and public loan provision under learning spillovers.* 2025. (Joint work with Paul Waidelich and Bjarne Steffen.) Journal of Environmental Economics & Management. DOI: [10.1016/j.jeem.2025.103222](https://doi.org/10.1016/j.jeem.2025.103222)
 {: .no-item}
 
+### Policy work and media publications
+
+- *Groß gegen Klein? Der Industriestrompreis als Risiko für Effizienz und Wettbewerb.* January 2026. (Joint work with Kathrine von Graevenitz and Elisa Rottner.) [ZEW Policy Brief](https://www.zew.de/fileadmin/FTP/policybrief/de/pb03-26.pdf). {: .no-item}
+
 ## Work in progress
 
 - *Firm-level investment into energy-saving capital.* (Early stage.)
