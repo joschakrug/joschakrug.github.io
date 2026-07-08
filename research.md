@@ -25,7 +25,12 @@ For my empirical analyses, I use a wide range of descriptive, quasi-experimental
 
 ### Policy work and media publications
 
-- *Groß gegen Klein? Der Industriestrompreis als Risiko für Effizienz und Wettbewerb.* January 2026. (Joint work with Kathrine von Graevenitz and Elisa Rottner.) [ZEW Policy Brief](https://www.zew.de/fileadmin/FTP/policybrief/de/pb03-26.pdf). {: .no-item}
+- *Entlastungen der energieintensiven Industrie: Auswirkungen auf Effizienz und Wettbewerb.* June 2026. (Join work with Kathrine von Graevenitz and Elisa Rottner.) [ifo Schnelldienst](https://www.ifo.de/publikationen/2026/aufsatz-zeitschrift/entlastungen-der-energieintensiven-industrie-auswirkungen).
+{: .no-item}
+- *Groß gegen Klein? Der Industriestrompreis als Risiko für Effizienz und Wettbewerb.* January 2026. (Joint work with Kathrine von Graevenitz and Elisa Rottner.) [ZEW Policy Brief](https://www.zew.de/fileadmin/FTP/policybrief/de/pb03-26.pdf).
+{: .no-item}
+- *Atomkraft? Jein danke! Über das ökonomische Für und Wider.* 2024. [ZEW Podcast](https://www.zew.de/PU86183).
+{: .no-item}
 
 ## Work in progress
 

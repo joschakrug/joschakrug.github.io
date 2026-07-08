@@ -13,6 +13,7 @@ Source for [joschakrug.github.io](https://joschakrug.github.io), built with [Jek
    ```
    bundle exec jekyll serve
    ```
+   (If the default port 4000 is taken already, specify a different port using the option `--port XXXX`)
 
 3. Open [http://localhost:4000](http://localhost:4000) in your browser.
 
